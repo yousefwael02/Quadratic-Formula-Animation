@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/3977891868_3023945925_223132457.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_1141282389_1240044784.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_3059232606_477442938.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_1488596900_1061627018.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_1141282389_1095802642.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_3188961623_2075287889.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_654795118_4193849480.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_2138220014_2771476796.mp4'
+file 'file:G:/Projects/Manim/Quadratic Formula/media/videos/scene/1080p60/partial_movie_files/QuadraticFormula/2852726489_1141282389_1819543630.mp4'
